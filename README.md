@@ -1,7 +1,7 @@
 ## Hi there, I am Satyam 👋
 
 <p align="center">
-  <img src="https://github.com/kapoorsatyam/Satyam-Kapoor/blob/main/myImage.png" alt="Alt Text" width='100' height='100'/>
+ <img src="https://github.com/kapoorsatyam/Satyam-Kapoor/blob/main/myImage.png" alt="Alt Text" style="width: 500px; height: 300px; display: block; margin-left: auto; margin-right: auto;" />
 </p>
 
 ***
