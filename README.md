@@ -15,7 +15,7 @@ I am a data science enthusiast with over two years of experience delivering impa
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've visited every major port city worldwide
 - 🏃 Hobbies: Badminton, Music and Video Games
-- 📃 [Resume](https://drive.google.com/file/d/1EK42UoHsyoSsm6khB5Zp4vlVoy5gWhj2/view?usp=sharing)
+- 📃 [Resume](https://drive.google.com/file/d/1-fHrAT0i_tqgH4SqzG-PvOzSlqGvsEv5/view?usp=sharing)
 
 ***
 
