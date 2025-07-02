@@ -5,11 +5,10 @@
 </p>
 
 ***
-## Hi, I'm Satyam Kapoor 👋
 
 I’m a data science enthusiast with over **three years of experience** delivering impactful data solutions in the finance sector, including advanced analytics, machine learning, and business intelligence. With a strong background in data engineering and analytics, I aim to drive innovation by leveraging data to solve complex business challenges and deliver actionable insights.
 
-- 💼 **Currently working as a Data Engineer at President’s Choice Financial**
+- 💼 **Currently working as a Data Engineer at President’s Choice Financial Toronto, Ontario**
 - 🏢 **Previously worked at BlackRock** as a Data Analyst and Software Developer Intern, building financial analytics tools and scalable data solutions
 - 🔭 Pursuing a **Master’s in Data Science** at the University of Calgary (Expected Sep 2025)
 - 🌱 Learning to become a **full-stack data scientist**
