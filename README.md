@@ -5,17 +5,21 @@
 </p>
 
 ***
-I am a data science enthusiast with over two years of experience delivering impactful data solutions in the finance sector, including advanced analytics, machine learning, and business intelligence. With a strong background in data analytics and a focus on data science, I aim to drive innovation by leveraging data to create actionable insights and solve complex business challenges.
+## Hi, I'm Satyam Kapoor 👋
 
-- 🔭 Currently pursuing a Master’s in Data Science at the University of Calgary (Expected 2025)
-- 🌱 Learning to become a full-stack data scientist
+I’m a data science enthusiast with over **three years of experience** delivering impactful data solutions in the finance sector, including advanced analytics, machine learning, and business intelligence. With a strong background in data engineering and analytics, I aim to drive innovation by leveraging data to solve complex business challenges and deliver actionable insights.
+
+- 💼 **Currently working as a Data Engineer at President’s Choice Financial**
+- 🏢 **Previously worked at BlackRock** as a Data Analyst and Software Developer Intern, building financial analytics tools and scalable data solutions
+- 🔭 Pursuing a **Master’s in Data Science** at the University of Calgary (Expected Sep 2025)
+- 🌱 Learning to become a **full-stack data scientist**
 - 👯 Open to collaborating on impactful projects
-- 🙋 Looking for guidance on using cloud tools for deployment and automation
-- 💬 Ask me about Python, R, SQL!
+- 🙋 Looking for guidance on **cloud deployment & automation**
+- 💬 Ask me about **Python, R, SQL, BigQuery, or Spark!**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've visited every major port city worldwide
-- 🏃 Hobbies: Badminton, Music and Video Games
-- 📃 [Resume](https://drive.google.com/file/d/1-fHrAT0i_tqgH4SqzG-PvOzSlqGvsEv5/view?usp=sharing)
+- 🏃 Hobbies: Badminton, Music, and Reading Novels
+- 📃 [Resume](https://drive.google.com/file/d/1IrfvmvEc1fBxeJjZnfZu4-t9vj43l6cF/view?usp=sharing)
 
 ***
 
@@ -25,7 +29,7 @@ I am a data science enthusiast with over two years of experience delivering impa
 *Calgary, Canada*  
 **Master of Data Science and Analytics (Expected 2025)**  
 Specialization: Data Science  
-Cumulative GPA: 3.92 / 4.0
+Cumulative GPA: 3.97 / 4.0
 
 **Relevant Coursework**:  
 Working with Data and Visualization, Statistical Data Analysis, Statistical Modelling with Data, Working with Data at Scale, Actionable Visualization and Analytics, Statistical Methods in Data Science, Statistical and Machine Learning, Developing Big Data Applications, Integrated Topics in Data Science and Analytics.
